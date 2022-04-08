@@ -1,0 +1,17 @@
+## colour palette
+
+dark teal = hsl(171,92%,19%)
+teal = hsl(174,30%,50%)
+light-teal = hsl(174,51%,70%)
+
+black = hsl(180,67%,1%)
+white = hsl(0,0%,96%)
+
+dark-grey = hsl(180,4%,36%)
+light-grey = hsl(171,8%,64%)
+
+#font
+https://fonts.google.com/specimen/Open+Sans?preview.text=123456789&preview.text_type=custom
+## design credit
+Rico Smith
+https://dribbble.com/shots/10903449-Daily-UI-004-Calculator
